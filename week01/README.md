@@ -4,7 +4,7 @@
 1. [Let's introduce ourselves](#introductions)
 2. [We have a syllabus; it will change](#syllabus)
 3. [So, what are our plans this semester?](#plans)
-4. [Forecasting](#forecasting)
+4. [What even is forecasting](#forecasting)
 
 ## <span id="introductions">1. Let's introduce ourselves</span>
 
@@ -42,7 +42,7 @@ But I'm open to any other ideas you all might have!
 
 The other thing the Data Analytics faculty have really wanted to do for you&mdash;this is relevant to point 2 above&mdash;but we haven't figured out exactly what it looks like, is to do "group projects," in a sense, but to really break out the steps of a data analytics workflow ([e.g.](https://www.researchgate.net/figure/Workflow-for-Big-Data-Analytics_fig1_303821919)) and have one person do each step, then hand it off to another person, and so on. Because sometimes you'll be just one point in the pipeline: maybe someone else cleaned the data, and it's your job to make visualizations. Or you're cleaning the data so someone else can combine it with something else to make a set of predictions. Or you're given a model or set of predictions and asked to perform validation on it/them. We want to give you this experience, but just haven't figured out quite how to put that together. So maybe let's talk about that?
 
-## <span id="forecasting">4. So what even is forecasting?</span>
+## <span id="forecasting">4. What even is forecasting?</span>
 
 ![a chart that breaks down forecasting techniques](forecasting_techniques.jpg) *image from [brillio.com](https://www.brillio.com/insights/choosing-the-right-forecasting-technique/)*
 
