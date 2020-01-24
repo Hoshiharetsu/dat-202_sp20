@@ -12,12 +12,14 @@ You've all taken DAT-201, but you didn't all take it at the same time.
 
 ## <span id="syllabus">2. We have a syllabus; it will change.</span>
 
-[Here it is](../DAT-202_Course_Outline_2020_Spring.docx?raw=true).
+[Here it is](../files/DAT-202_Course_Outline_2020_Spring.docx?raw=true).
 
 We're going to mess with this schedule a lot over the course of the semester, though. Let's start now:
 1. Do we want to do traditional points-based grading or the Darsow approach (self-assigned grades)? I'm open to either.
 2. Let's talk a bit about our topics and our planned approach to covering them (see below, "3. So, what are we up to this semester?")
 3. Can we live with GitHub, or shall I open our Blackboard shell?
+4. Reminder that we have [a Slack channel](https://ccac-data-analytics.slack.com) (#dat-202) for this course. You need to use your CCAC email address to register. 
+
 
 ## <span id="plans">3. So, what are we up to this semester?</span>
 
