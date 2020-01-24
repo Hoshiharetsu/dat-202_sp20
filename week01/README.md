@@ -15,9 +15,9 @@ You've all taken DAT-201, but you didn't all take it at the same time.
 [Here it is](../DAT-202_Course_Outline_2020_Spring.docx?raw=true).
 
 We're going to mess with this schedule a lot over the course of the semester, though. Let's start now:
-1. Do you want to do points-based grading or self-assigned grades? I'm open to either.
+1. Do we want to do traditional points-based grading or the Darsow approach (self-assigned grades)? I'm open to either.
 2. Let's talk a bit about our topics and our planned approach to covering them (see below, "3. So, what are we up to this semester?")
-3. Can you live with GitHub, or shall I open our Blackboard shell?
+3. Can we live with GitHub, or shall I open our Blackboard shell?
 
 ## <span id="plans">3. So, what are we up to this semester?</span>
 
@@ -34,7 +34,7 @@ Additionally, our course description talks about "the different types of forecas
 
 I want us to do some regression analysis and maybe some simple machine learning in Python. But I think we should start with more basic tools like spreadsheets and moving averages (both because not everyone will have taken Python 2, yet, _and_ because there are professional data analysts whose whole jobs revolve around Excel&mdash;it's an important and powerful tool that I would be remiss to skip over entirely).
 
-Speaking of being remiss, maybe, we kind of let the last couple of sections of 201 slide on the whole "collaboration" front, despite what the master syllabus for the course might have required. (I probably shouldn't put that in writing, but here we are.) I'd like us to work together as a class to figure out how we're going to build that in, this semester. The two ideas I'm bringing to the table:
+Speaking of being remiss, maybe, we never really forced people to work in groups in DAT-201. You all collaborated in many other ways, so I think we're on solid ground ... but. I'd like us to work together as a class to figure out how we're going to build more structured collaboration opportunities in, this semester. The two ideas I'm bringing to the table:
 1) Peer teaching (maybe in lieu of a mid-semester project?)
 2) Working as groups for a final project
 
@@ -52,14 +52,16 @@ But let's do a little qualitative forecasting tonight, just so that you have the
 
 ### Qualitative methods
 
-There are only six of us (five of you, if I cheat and count the items ahead of time), so we'll see whether we notice a difference in these two methods, I guess!
+There are only six of us (five of you, since I need to act as the facilitator), so we'll see whether we notice a difference in these two methods, I guess!
 
 First, we're going to guess the number of items in a jar! As a group! This is referred to as "panel consensus." 
 
 Then, we will go through the Delphi method to guess the number of _different_ items in a _different jar_. 
 
+Then we'll count and see how the two methods compare in a small group environment.
+
 While "panel consensus" is mostly what it sounds like&mdash;talk it over as a group and see what kind of answer people seem to agree on&mdash;it might be helpful to have some background on the [Delphi method](https://en.wikipedia.org/wiki/Delphi_method). 
 
 After doing these activities, let's **talk over the pros and cons of each and how accurate we think they might be**. 
 
-The final qualitative method listed on the chart above is "market research." 
+The final qualitative method listed on the chart above is "market research." [This](https://www.entrepreneur.com/encyclopedia/market-research) is a pretty good article with more information about what that entails. 
