@@ -2,7 +2,7 @@
 
 ## Course documents:
 * [Assigned readings for the course](readings.md)
-* [Syllabus](DAT-202_Course_Outline_2020_Spring.docx) (docx format)
+* [Syllabus](./files/DAT-202_Course_Outline_2020_Spring.docx) (docx format)
 
 ## Schedule:
 * [Week 1](./week01) - Introductions, syllabus, figuring out what this class is going to be, talking about what forecasting is
