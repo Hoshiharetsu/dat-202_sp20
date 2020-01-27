@@ -19,7 +19,7 @@ We're going to mess with this schedule a lot over the course of the semester, th
 2. Let's talk a bit about our topics and our planned approach to covering them (see below, "3. So, what are we up to this semester?")
 3. Can we live with GitHub, or shall I open our Blackboard shell?
 4. Reminder that we have [a Slack channel](https://ccac-data-analytics.slack.com) (#dat-202) for this course. You need to use your CCAC email address to register. 
-
+5. There are some career fairs and resume review activites coming up this semester. I've put information into [/files/announcements/](./files/announcements).
 
 ## <span id="plans">3. So, what are we up to this semester?</span>
 
