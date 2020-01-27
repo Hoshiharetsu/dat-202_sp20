@@ -5,6 +5,7 @@
 2. [We have a syllabus; it will change](#syllabus)
 3. [So, what are our plans this semester?](#plans)
 4. [What even is forecasting](#forecasting)
+5. [Homework](#homework)
 
 ## <span id="introductions">1. Let's introduce ourselves</span>
 
@@ -67,3 +68,9 @@ While "panel consensus" is mostly what it sounds like&mdash;talk it over as a gr
 After doing these activities, let's **talk over the pros and cons of each and how accurate we think they might be**. 
 
 The final qualitative method listed on the chart above is "market research." [This](https://www.entrepreneur.com/encyclopedia/market-research) is a pretty good article with more information about what that entails. 
+
+## <span id="homework">5. Homework</span>
+
+Find some data sets that could reasonably be forecasted. Olympic event times by year, alligator bite pressure by total animal length, bike rentals by month, sales of widgets per week... most will have some kind of timing aspect to them, but (like the alligator example) not all will.
+
+If you want to do some initial investigation of the data in Excel, that would be good. We'll start looking at data next class! 
