@@ -13,12 +13,12 @@ You've all taken DAT-201, but you didn't all take it at the same time.
 
 ## <span id="syllabus">2. We have a syllabus; it will change.</span>
 
-[Here it is](../files/DAT-202_Course_Outline_2020_Spring.docx?raw=true).
+[Here it is](../files/course_outline_DAT-202_20sp.pdf).
 
 We're going to mess with this schedule a lot over the course of the semester, though. Let's start now:
-1. Do we want to do traditional points-based grading or the Darsow approach (self-assigned grades)? I'm open to either.
+1. Do we want to do traditional points-based grading or the Darsow approach (self-assigned grades with possible instructor override)? I'm open to either.
 2. Let's talk a bit about our topics and our planned approach to covering them (see below, "3. So, what are we up to this semester?")
-3. Can we live with GitHub, or shall I open our Blackboard shell?
+3. Can we live with GitHub, or shall I open our Blackboard shell? Update: I did open the Blackboard shell, mostly to provide you with an easy link to the GitHub site, but I can move our docs over there if that's what we want.
 4. Reminder that we have [a Slack channel](https://ccac-data-analytics.slack.com) (#dat-202) for this course. You need to use your CCAC email address to register. 
 5. There are some career fairs and resume review activites coming up this semester. I've put information into [/files/announcements/](./files/announcements).
 
@@ -43,7 +43,7 @@ Speaking of being remiss, maybe, we never really forced people to work in groups
 
 But I'm open to any other ideas you all might have!
 
-The other thing the Data Analytics faculty have really wanted to do for you&mdash;this is relevant to point 2 above&mdash;but we haven't figured out exactly what it looks like, is to do "group projects," in a sense, but to really break out the steps of a data analytics workflow ([e.g.](https://www.researchgate.net/figure/Workflow-for-Big-Data-Analytics_fig1_303821919)) and have one person do each step, then hand it off to another person, and so on. Because sometimes you'll be just one point in the pipeline: maybe someone else cleaned the data, and it's your job to make visualizations. Or you're cleaning the data so someone else can combine it with something else to make a set of predictions. Or you're given a model or set of predictions and asked to perform validation on it/them. We want to give you this experience, but just haven't figured out quite how to put that together. So maybe let's talk about that?
+The other thing the Data Analytics faculty have really wanted to do for you&mdash;this is relevant to point 2, above&mdash;but we haven't figured out exactly what it looks like, is to do "group projects," in a sense, but to really break out the steps of a data analytics workflow ([e.g.](https://www.researchgate.net/figure/Workflow-for-Big-Data-Analytics_fig1_303821919)) and have one person do each step, then hand it off to another person, and so on. Because sometimes you'll be just one point in the pipeline: maybe someone else cleaned the data, and it's your job to make visualizations. Or you're cleaning the data so someone else can combine it with something else to make a set of predictions. Or you're given a model or set of predictions and asked to perform validation on it/them. We want to give you this experience, but just haven't figured out quite how to put that together. So maybe let's talk about that?
 
 ## <span id="forecasting">4. What even is forecasting?</span>
 
