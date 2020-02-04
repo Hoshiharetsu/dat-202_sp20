@@ -7,7 +7,7 @@
 
 ## <span id="announcements">0. Announcements</span>
 
-[This looks cool](https://pitt.libc  al.com/calendar/today/pghhistories). Unfortunately for most of us, it's in Oakland in the middle of the day. Anyone want to go, though? 
+[This looks cool](https://pitt.libcal.com/calendar/today/pghhistories). Unfortunately for most of us, it's in Oakland in the middle of the day. Anyone want to go, though? 
 
 ## <span id="readings">1. Talking about our data sets</span>
 
@@ -16,6 +16,8 @@ What have we found? Anything cool? Anything we want to talk about? Do you want t
 ## <span id="schedule">2. Talking about our schedule</span>
 
 We should talk about our schedule.
+Who teaches what when? 
+Anything we want to explore in detail?
 
 ## <span id="excel">3. Let's look at Excel
 
