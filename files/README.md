@@ -1,0 +1,3 @@
+# Links that might be useful
+
+[A survey to tell Coral how things are going](https://forms.gle/PfkyG9iXN1VBLsqYA) - This does not take the place of the Survey of Student Opinion that is handed out at mid-term (and which lots of people besides me see&mdash;but only after the semester is over). I'm the only one who sees this, and I can see it immediately after you hit "submit," which lets me know what to change (and what to keep the same) _while the semester is still happening._ This is a way for you to give me anonymous feedback whenever you want, and you can also use it to ask questions if you don't want to ask them some other way. Every question on the survey is optional. 
