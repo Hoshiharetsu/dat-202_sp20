@@ -26,8 +26,5 @@ Next thing: On March 5th at 4pm, the DAT faculty are convening to start the proc
 ## <span id="homework">Our homework and readings for this week</span>
 
 ### Homework
-* Anything Sitian or Xiaohong assigned us (yeah, I'll do it too :))
-
-### Readings (you have two weeks)
-
-* Chambers, Mullick, and Smith. “How to Choose the Right Forecasting Technique,” _Harvard Business Review_, July 1971. [link](https://hbr.org/1971/07/how-to-choose-the-right-forecasting-technique) [pdf](./files/choosing_forecasting_technique_HBR_71.pdf)
+* ~~Anything Sitian or Xiaohong assigned us (yeah, I'll do it too :))~~ (Neither assigned us any homework, how nice of them!)
+* Due March 10: Do some digging for data related to data analytics/data science, that we might use for forecasting; you can choose to look at data analytics as 1) an occupation or 2) an educational pursuit. We want to see if we can do a practical final project on this. 
