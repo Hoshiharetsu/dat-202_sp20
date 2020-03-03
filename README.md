@@ -10,10 +10,10 @@
 * 2/4 - [Week 2](./week02) - Some simple forecasting in Excel
 * 2/11 - [Week 3](./week03) - Stats review
 * 2/18 - Week 4 - Meeting at Carlow for Kaggle Team Presentations
-* 2/25 - [Week 5](./week05) - Sitian talks about Exponential Smoothing, and Xiaohong talks about ARMA/ARIMA; Coral talks about GitHub
+* 2/25 - [Week 5](./week05) - Sitian talks about Exponential Smoothing, and Xiaohong talks about ARMA/ARIMA
 * 3/3 - [Week 6](./week06) - Steph talks about Regressions, and Paula talks about Econometrics
-* 3/10 (midterm grades due) - [Week 7](./week07) - probably we implement the forecasting techniques from the previous two weeks, but in Excel and/or Python!
-* 3/17 - [Week 8](./week08) - no pinching
+* 3/10 (midterm grades due) - [Week 7](./week07) - Advanced GitHubbing, applying concepts from previous two weeks
+* 3/17 - [Week 8](./week08) - Project management
 * 3/24 - [Week 9](./week09)
 * 3/31 - [Week 10](./week10)
 * 4/7 - spring break, don't show up
