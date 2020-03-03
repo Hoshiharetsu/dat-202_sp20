@@ -14,21 +14,16 @@ Next thing: On March 5th at 4pm, the DAT faculty are convening to start the proc
 
 ## <span id="readings">Homework/Readings</span>
 
-* First, let's chat about the Kaggle presentations we went to last week. Anything we observed about how the teams worked, about how the projects were done? 
-* Next, let's chat about anonymization and confidentiality. 
+* We gave ourselves two weeks to pull together data for a possible final project for this course.  
 
-## <span id="student">Sitian and Xiaohong, our featured presenters!</span>
+## <span id="student">Stephanie and Paula, our featured presenters!</span>
 
-### Sitian - Exponential Smoothing
+### Stephanie - Regressions
 
-[slides](.Exponential_Smoothing.pptx)
-
-### Xiaohong - ARMA/ARIMA
-
-[slides](Xiaohong_ARIMA.pptx)
+### Paula - Econometrics
 
 ## <span id="homework">Our homework and readings for this week</span>
 
 ### Homework
-* ~~Anything Sitian or Xiaohong assigned us (yeah, I'll do it too :))~~ (Neither assigned us any homework, how nice of them!)
+* Anything Steph or Paula assigned us (yeah, I'll do it too :))
 * Due March 10: Do some digging for data related to data analytics/data science, that we might use for forecasting; you can choose to look at data analytics as 1) an occupation or 2) an educational pursuit. We want to see if we can do a practical final project on this. 
