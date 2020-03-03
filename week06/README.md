@@ -10,6 +10,8 @@
 
 Reminder that there's a DAT curriculum planning meeting this Thursday, and we're doing a massive rewrite of the program's learning outcomes. If you've got things you want to see in our curriculum&mdash;things we've done well and need to keep doing, things you want to learn but haven't learned so far and don't see listed in our courses, things you think we should have skipped or emphasized less&mdash;get your comments in! You can email me, [call Eric Darsow](https://technologyrediscovery.net/#contact), talk to either of us before class/during class work time, fill in the [anonymous survey](https://forms.gle/PfkyG9iXN1VBLsqYA), or show up at 4pm on Thursday to make your opinions known!
 
+Quick question for y'all: what was that database we reverse-engineered in 201?
+
 ## <span id="readings">Homework/Readings</span>
 
 * We gave ourselves two weeks to pull together data for a possible final project for this course. Bring the data you've found (or other data you might like to put toward a final project) next week, and we'll push it to GitHub.
