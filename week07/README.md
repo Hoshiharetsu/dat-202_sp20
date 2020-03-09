@@ -8,6 +8,8 @@
 
 ## <span id="announcements">Announcements</span>
 
+[Updated attendance policy](../attendance_policy.md)
+
 It's SOSO week. You all know the drill; SOSOs are different from [my informal survey](https://forms.gle/PfkyG9iXN1VBLsqYA).
 
 ## <span id="readings">Homework/Readings</span>
