@@ -29,7 +29,7 @@
 1. Feel free to go see the changes in GitHub.
 1. Now **change machines.** If you're on a laptop, log in to the school's machine. If you're on a school machine, go to a different school machine. (Leave the other machine logged in; you'll be back in a couple of minutes.)
 1. Clone the repository from GitHub on the new machine, and navigate into the directory housing your local repo on that machine.
-1. Create a file; you can do this directly from Git Bash by typing `touch junkfile.txt`
+1. Create a file; you can do this directly from Git Bash by typing `touch trashfile.txt`
 1. Add the file to the files tracked on Git, commit your changes, and push. 
 1. Go back to your first machine. (Leave the new machine logged in; you'll be back.) Check the status of the repository with `git status` - oh no, you're behind by one commit! 
 	* `git pull origin master`
