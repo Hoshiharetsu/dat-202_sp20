@@ -79,6 +79,8 @@ The model used in DAT-129 (in the week 6 link above), where you're added as a co
 
 We're going to switch repositories now. 
 
+And I'm going to draw our model on the board, to try to help us keep straight what is happening.
+
 1. `cd` back up to the parent directory so that you aren't making a Git repo inside a Git repo (which is a surefire way to make yourself very unhappy). 
 1. Go to [our datasets repository](https://github.com/ccac-data-analytics/datasets) and **do not clone it.**
 1. You're going to fork it to your own account. There's a button for that at the top right (way higher than the clone button).
@@ -89,7 +91,25 @@ We're going to switch repositories now.
 1. Now we're going to add another remote, so that we're able to pull down changes when they happen on the repository we forked from. We're going to name it `upstream` (this is convention, not a hard and fast rule).
 	* 'git remote add upstream https://github.com/ccac-data-analytics/datasets.git'
 1. If we do `git remote -v` again, we can see we have two remotes, now: origin and upstream.
-1. OK. I'm going to make a change to upstream, so you can all pull it. (Don't type the next few things, OK?)
+1. Now, I'm going to make a change to our upstream repo, so you can all pull them down and push them to your own repos. (**Don't type the next few things you see me typing**, OK?)
+1. I made changes on the ccac-data-analytics copy of the repository (on the master branch). To pull them down to your **local** repository, you'll type this:
+	* `git pull upstream master`
+1. To push them to **your own remote repository** you'll type this:
+	* `git push origin master`
+1. OK, now you know how to keep your local repository up to date with someone else's repo that you have no control over. That's powerful! There's a lot you can do with just that&mdash;maybe you have your own fork of an open source project, but you want to keep it up to date with what the community is doing. Valid! Useful! 
+
+But now, let's say you make a change that you want reflected in the main repository. You've got a really good bugfix or cool new feature or something, right? Great!
+
+You need to make the changes on your local repo and then issue a pull request to the main repository, since you don't have the rights to push to it directly. 
+
+(We're over-simplifying a little bit, doing all of this in the master branch. If we're feeling very powerful when we're through this, we'll add other branches to the mix, to make it more like what happens in a big open source project. But this is a whole lot for one class session, so I'm going to call us successful even if we never combine multiple branches _and_ multiple remotes into the same command.) 
+
+One by one, we are going to go through this. I'll walk you each through it if you want. But you need to wait your turn&mdash;**don't do this next bit until I tell you, individually, to do so.**
+1. First, you need to pull down any changes from upstream. 
+1. Now, navigate into the practice directory, and make a change (add a file, let's say) on your local machine.
+1. Push it to **your** remote. (Remember to navigate back up a directory before adding and committing)
+1. Go to [the upstream repo on GitHub](https://github.com/ccac-data-analytics/datasets), and create a pull request.
+1. I'll accept it. We'll move on to the next person. 
 
 TODO: fork, add remote, make changes round-robin, and the git rm command
 
