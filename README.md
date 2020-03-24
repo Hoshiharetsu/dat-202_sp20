@@ -13,14 +13,13 @@
 * 2/25 - [Week 5](./week05) - Sitian talks about Exponential Smoothing, and Xiaohong talks about ARMA/ARIMA
 * 3/3 - [Week 6](./week06) - Steph talks about Regressions, and Paula talks about Econometrics
 * 3/10 (midterm grades due) - [Week 7](./week07) - Advanced GitHubbing, applying concepts from previous two weeks
-* 3/17 - [Week 8](./week08) - Project management
-* 3/24 - [Week 9](./week09)
-* 3/31 - [Week 10](./week10)
-* 4/7 - spring break, don't show up
-* 4/14 - [Week 11](./week11) 
-* 4/21 - [Week 12](./week12)
-* 4/28 - [Week 13](./week13)
-* 5/5 - our final meeting, show me your project and we debrief about that and the class and DAT in general 
+* 3/17 & 3/24 - classes cancelled
+* 3/31 - [Week 8](./week08) - Guest speaker &amp; GitHub 2
+* 4/7 - [Week 9](./week09)
+* 4/14 - [Week 10](./week10) 
+* 4/21 - [Week 11](./week11)
+* 4/28 - [Week 12](./week12)
+* 5/5 - "exam" week, final project due?
 
 &nbsp;
 
