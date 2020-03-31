@@ -2,7 +2,7 @@
 
 ## One person, one repo, multiple machines, not worrying about branches yet
 
-(I'll draw the model on the board now. I'm also going to go through all of these steps with you, in person.)
+![a diagram showing two local repos and one remote repo](../files/images/multiple_machines_one_remote.jpeg)
 
 1. Log in to your own GitHub account, on github.com, and create a new repository. For our purposes, let's call it `github_practice`. Check the box to "Initialize this repository with a README". (You'll be able to delete this after we're done tonight if you want!)
 1. In Git Bash, navigate to a directory where it makes sense to have some GitHub repositories. My suggested command on Windows, especially on the school machines:
