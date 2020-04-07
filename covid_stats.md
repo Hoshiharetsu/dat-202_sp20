@@ -1,6 +1,6 @@
 # COVID-19 statistics, data, analyses, etc.
 
-![a joke diagram](../files/images/exponential_graphs.jpg)
+![a joke diagram](./files/images/exponential_graphs.jpg)
 
 https://www.wired.com/story/the-mathematics-of-predicting-the-course-of-the-coronavirus/?utm_source=pocket-newtab
 
