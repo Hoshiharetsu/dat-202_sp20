@@ -1,5 +1,6 @@
-# How to GitHub
+# How to GitHub, Part 2
 
+~Last week~Sometime in the past we looked at how one person can work in a single GitHub repository, even when they're doing work on multiple machines (or, less satisfyingly, in multiple directories). We also looked at branches, which allow us to keep a single branch that is canonically "correct," along with any number of other branches for development and testing of new features.  
 
 ## Multiple repositories, multiple people
 
