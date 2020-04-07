@@ -16,6 +16,7 @@
 * https://alcogis.maps.arcgis.com/apps/MapSeries/index.html?appid=abaca148492b47a7ad0d5a71f5d2c5e8
 
 ## data viz:
+* https://aatishb.com/covidtrends/ (really good [video](https://www.youtube.com/watch?v=54XLXg4fYsc))
 * https://public.flourish.studio/visualisation/1741938/
 * https://twitter.com/dergigi/status/1243315176000180224/photo/1
 * https://twitter.com/lenkiefer/status/1245702860920311808
