@@ -7,6 +7,9 @@
 * https://www.ft.com/coronavirus-latest
 * https://www.themarshallproject.org/2020/03/27/as-coronavirus-surges-crime-declines-in-some-cities
 
+## datasets
+* https://www.programmableweb.com/news/google-launches-covid-19-public-datasets-program/brief/2020/03/31
+
 ## projections:
 * https://covid19.healthdata.org/projections
 * https://projects.propublica.org/graphics/covid-hospitals?geo=Pittsburgh,%20PA
@@ -14,6 +17,7 @@
 
 ## maps:
 * https://alcogis.maps.arcgis.com/apps/MapSeries/index.html?appid=abaca148492b47a7ad0d5a71f5d2c5e8
+* (new) https://www.arcgis.com/apps/opsdashboard/index.html#/85054b06472e4208b02285b8557f24cf
 
 ## data viz:
 * https://aatishb.com/covidtrends/ (really good [video](https://www.youtube.com/watch?v=54XLXg4fYsc))
