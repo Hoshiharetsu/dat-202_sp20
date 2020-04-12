@@ -42,4 +42,6 @@ We're going to work in [this repo](https://github.com/ccac-data-analytics/datase
 
 ## <span id="homework">Homework</span>
 
-We'll figure out what it should be in class, yeah? And we'll keep it light.
+We decided we'd all work together on a report about data analytics and COVID-19. Our repo is here: https://github.com/ccac-data-analytics/covid_19_project - you're going to email me your GitHub username (done, or if not, I found it from Eric's webpage) and whatever email address you use to interact with Google Drive, for our shared folder there. 
+
+I'm also going to put up a bunch of videos about GitHub, for you and my 201s. We'll take turns adding things to [the repo where we put data sets and project ideas](https://github.com/ccac-data-analytics/datasets), once I get those videos posted. 
