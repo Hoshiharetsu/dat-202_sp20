@@ -16,10 +16,8 @@
 * 3/17 & 3/24 - classes cancelled
 * 3/31 - [Week 8](./week08) - Guest speaker &amp; GitHub 2
 * 4/7 - [Week 9](./week09)
-* 4/14 - [Week 10](./week10) 
-* 4/21 - [Week 11](./week11)
-* 4/28 - [Week 12](./week12)
-* 5/5 - "exam" week, final project due?
+* 4/14-5/5 - [Weeks 10+](./weeks10plus)
+* 5/5 - "exam" week, final touches on our report
 
 &nbsp;
 
