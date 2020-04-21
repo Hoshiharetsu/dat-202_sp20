@@ -29,5 +29,8 @@ If you want other things added to the lessons that are up there, let me know! (I
 
 ## <span id="online_confs">An ever-growing list of online-conferences we might like</span>
 
+* This one, being held this weekend (4/25), is about Information Security, not Data Analytics, but I'd argue they are intersecting fields. It's exciting because it's expressly designed for beginners. (I know one of the speakers, and she's excellent.) 
+	* [Session descriptions](https://docs.google.com/document/d/1bfJFemJpy5W69YZze5NgbKf2E37NqXburzCj4P6Ahiw/edit?usp=sharing)
+	* [Registration information in this tweet](https://twitter.com/IntroSecCon/status/1251723877228572673?s=20)
 * [PyCon](https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA) - Would have been in Pittsburgh this year. Later this week, actually. Many of the planned talks will end up on the YouTube channel (which is what I linked, above, instead of [the conference website](https://us.pycon.org/2020/). Also, I'm (virtually) attending the Education Summit and the Trainers' Summit on the 23rd and 24th.
 * [CSVconf](https://csvconf.com/) - May 13-14 online. 
